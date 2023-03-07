@@ -1,0 +1,11 @@
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\bin\Debug\Windows Sandbox.exe.config
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\bin\Debug\Windows Sandbox.exe
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\bin\Debug\Windows Sandbox.pdb
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows Sandbox.csproj.AssemblyReference.cache
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows Sandbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows_Sandbox.Form1.resources
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows_Sandbox.Properties.Resources.resources
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows Sandbox.csproj.GenerateResource.cache
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows Sandbox.exe
+C:\Users\691496\source\repos\Windows Sandbox\Windows Sandbox\obj\Debug\Windows Sandbox.pdb
